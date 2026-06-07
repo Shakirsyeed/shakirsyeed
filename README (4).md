@@ -21,7 +21,7 @@
 
 ```python
 shakir = {
-    "name"          : "Shakir Syed",
+    "name"          : "Shakir Syeed",
     "title"         : "Data Analyst",
     "location"      : "India 🇮🇳",
     "tools"         : ["Excel", "SQL", "Python", "Power BI"],
