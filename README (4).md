@@ -115,7 +115,7 @@ shakir = {
 | 🔑 Key Findings | RFM segments built · Top revenue categories identified |
 | 💥 Impact | Champions vs At-Risk customers clearly separated |
 
-[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project-Flipkart_Analytics-FFB547?style=for-the-badge)](https://github.com/Shakirsyeed/Flipkart-E-Commerce-project)
+[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project-Flipkart_Analytics-FFB547?style=for-the-badge)](https://github.com/Shakirsyeed/Flipkart_E-Commerce-project.git)
 
 **What I did step by step:**
 
