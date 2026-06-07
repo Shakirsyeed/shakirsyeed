@@ -140,7 +140,7 @@ shakir = {
 | 🔑 Key Findings | Bangalore ₹16.2L avg · AI Engineer highest demand role |
 | 💥 Impact | Salary benchmarks built for 12 Data roles across India |
 
-[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project-Job_Market_Analytics-4C9EFF?style=for-the-badge)](https://github.com/Shakirsyeed/Job-Market-Analytics-India)
+[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project-Job_Market_Analytics-4C9EFF?style=for-the-badge)](https://github.com/Shakirsyeed/Job-Market-Analytics.git)
 
 **What I did step by step:**
 
