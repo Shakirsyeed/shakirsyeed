@@ -91,7 +91,7 @@ shakir = {
 | 🔑 Key Findings | Month-to-Month churn 76% · $152K monthly revenue at risk |
 | 💥 Impact | 2,214 high-risk customers identified and flagged |
 
-[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project-Customer_Churn-FF5B5B?style=for-the-badge)](https://github.com/Shakirsyeed/Customer-Churn-Prediction-Telecom)
+[![View Full Project](https://img.shields.io/badge/🔗_View_Full_Project-Customer_Churn-FF5B5B?style=for-the-badge)](https://github.com/Shakirsyeed/customer-churn-project.git)
 
 **What I did step by step:**
 
